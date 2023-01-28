@@ -1,0 +1,26 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pickle files
+picklejar/*
+
+# MacOS files
+.DS_Store
+
+# yelp folders
+dataset/*
+photos/photos/*
+photos/photos.json
+
+# Mapbox
+mapbox/*
+
+# PDF files
+*.pdf
+
+# TFDF models
+models/tfdf_regression_model/*
+models/tfdf_classification_model/*
+
+# H5 models
+models/*.h5

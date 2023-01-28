@@ -1,0 +1,1 @@
+This folder contains all the exports from Plotly. Open them in Google Chrome. Enjoy!

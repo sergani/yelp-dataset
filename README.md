@@ -16,6 +16,18 @@ This is a 15+ GB dataset that was downloaded from Yelp. It contains the followin
 
 Description for each of the above items can be viewed [here](https://www.yelp.com/dataset/documentation/main).
 
+Throughout this project I will play around with the following topics:
+2. Pandas dataframes (mainly load from JSON, manipulate data, and merge dataframes in the end)
+2. Exploratory data analysis
+2. Pandas profiling
+2. Plotly
+2. Machine Learning - Regression
+2. Machine Learning - Classification
+2. Machine Learning - Clustering (meh :/ maybe not)
+2. Deep Learning - Convolutional Neural Networks
+2. Natural Language Processing and Sentiment Analysis
+2. Some MLOps
+
 # Where Can I Get This Dataset?
 
 You can download the files from [here](https://www.yelp.com/dataset). Just click on *Download Dataset* and go through the process, it's fairly easy.

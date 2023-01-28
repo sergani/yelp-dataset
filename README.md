@@ -17,6 +17,7 @@ This is a 15+ GB dataset that was downloaded from Yelp. It contains the followin
 Description for each of the above items can be viewed [here](https://www.yelp.com/dataset/documentation/main).
 
 Throughout this project I will play around with the following topics:
+
 2. Pandas dataframes (mainly load from JSON, manipulate data, and merge dataframes in the end)
 2. Exploratory data analysis
 2. Pandas profiling

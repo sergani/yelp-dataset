@@ -1,0 +1,1 @@
+This folder contains a few screenshots used for the project's readme files. 

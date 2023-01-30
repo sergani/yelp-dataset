@@ -18,16 +18,16 @@ Description for each of the above items can be viewed [here](https://www.yelp.co
 
 Throughout this project I will play around with the following topics:
 
-2. Pandas dataframes (mainly load from JSON, manipulate data, and merge dataframes in the end)
-2. Exploratory data analysis
-2. Pandas profiling
-2. Plotly
-2. Machine Learning - Regression
-2. Machine Learning - Classification
-2. Machine Learning - Clustering (meh :/ maybe not)
-2. Deep Learning - Convolutional Neural Networks
-2. Natural Language Processing and Sentiment Analysis
-2. Some MLOps
+1. Pandas dataframes (mainly load from JSON, manipulate data, and merge dataframes in the end)
+1. Exploratory data analysis
+1. Pandas profiling
+1. Plotly
+1. Machine Learning - Regression
+1. Machine Learning - Classification
+1. Machine Learning - Clustering (meh :/ maybe not)
+1. Deep Learning - Convolutional Neural Networks
+1. Natural Language Processing and Sentiment Analysis
+1. Some MLOps
 
 # Where Can I Get This Dataset?
 

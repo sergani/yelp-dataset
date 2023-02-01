@@ -138,3 +138,5 @@ widgetsnbextension==4.0.5
 wrapt==1.14.1
 wurlitzer==3.0.3
 xgboost==1.7.3
+nltk==3.8.1
+
